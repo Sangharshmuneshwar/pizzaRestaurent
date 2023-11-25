@@ -1,0 +1,648 @@
+.restaurant-website,
+.restaurant-website * {
+  box-sizing: border-box;
+}
+.restaurant-website {
+  background: #000000;
+  width: 1728px;
+  height: 6080px;
+  position: relative;
+  overflow: hidden;
+}
+.wood-2045380-1920-1 {
+  width: 1751px;
+  height: 1006px;
+  position: absolute;
+  left: -23px;
+  top: 111px;
+}
+.pizza-1-1 {
+  width: 1757px;
+  height: 1006px;
+  position: absolute;
+  left: -29px;
+  top: 111px;
+}
+.rectangle-2 {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(39, 39, 39, 0.05) 0.009999999747378752%,
+    rgba(31, 31, 31, 0.05) 0.019999999494757503%,
+    rgba(0, 0, 0, 0.06) 13.02083283662796%,
+    rgba(0, 0, 0, 0.5) 100%
+  );
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1px;
+  width: 1786px;
+  height: 1017px;
+  position: absolute;
+  left: -23px;
+  top: 100px;
+  box-shadow: 3px 6px 18px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-3 {
+  background: #f24c4c;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1px;
+  width: 586px;
+  height: 13px;
+  position: absolute;
+  left: 116px;
+  top: 533px;
+  box-shadow: 3px 6px 18px 0px rgba(0, 0, 0, 0.25);
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-phasellus-ac-placerat-dui-vestibulum-ut-felis-et-lorem-porta-congue-vitae-nec-turpis-aliquam-quis-leo-at-nunc-tempor-faucibus-et-ac-massa {
+  color: #ffffff;
+  text-align: left;
+  font: 400 25px/40px "Ruda-Regular", sans-serif;
+  position: absolute;
+  left: 116px;
+  top: 613px;
+  width: 599px;
+  height: 325px;
+}
+.craving-for-a-chessy-pizza {
+  color: #ffffff;
+  text-align: center;
+  font: 700 101px/108.5px "Quattrocento-Bold", sans-serif;
+  position: absolute;
+  left: 17px;
+  top: 240px;
+  width: 902px;
+  height: 215px;
+}
+.rectangle-11 {
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1px;
+  width: 75.79px;
+  height: 51.24px;
+  position: absolute;
+  left: 1523.04px;
+  top: 79.73px;
+  box-shadow: 3px 6px 18px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(179.854deg) scale(1, 1);
+}
+.image-3 {
+  width: 57px;
+  height: 60px;
+  position: absolute;
+  left: 1643px;
+  top: 24px;
+}
+.image-2 {
+  width: 63px;
+  height: 52px;
+  position: absolute;
+  left: 1548px;
+  top: 29px;
+}
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industry-s-standard-dummy-text-ever-since-the-1500-s-when-an-unknown-printer-took-a-galley-of-type-and-scrambled-it-to-make-a-type-specimen-book-it-has-survived-not-only-five-centuries-but-also-the-leap-into-electronic-typesetting-remaining-essentially-unchanged {
+  color: #ffffff;
+  text-align: left;
+  font: 400 25px/40px "Ruda-Regular", sans-serif;
+  position: absolute;
+  left: 193px;
+  top: 1421px;
+  width: 677px;
+  height: 420px;
+}
+.dough-3082589-1920-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 74.47916865348816%,
+    rgba(0, 0, 0, 0.8) 100%
+  );
+  border-radius: 10px;
+  width: 631px;
+  height: 506px;
+  position: absolute;
+  left: 949px;
+  top: 1368px;
+}
+.rectangle-6 {
+  background: #f24c4c;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1px;
+  width: 535px;
+  height: 4px;
+  position: absolute;
+  left: 193px;
+  top: 1404px;
+  box-shadow: 3px 6px 18px 0px rgba(0, 0, 0, 0.25);
+}
+.about-us {
+  color: #ffffff;
+  text-align: center;
+  font: 400 60px/0px "Quattrocento-Regular", sans-serif;
+  position: absolute;
+  left: 599px;
+  top: 1216px;
+  width: 526px;
+  height: 58px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-14 {
+  background: #b62828;
+  width: 526px;
+  height: 10px;
+  position: absolute;
+  left: 599px;
+  top: 1289px;
+}
+.explore-the-wide-range-of-pizza-baked-in-fresh-dough-and-vegetables-our-pizza-will-tempt-all-your-excitement-and-senses-made-with-a-delicate-balance-of-everything-cheesy-and-spicy-you-will-get-to-savour-the-best-pizza-in-town {
+  color: #ffffff;
+  text-align: left;
+  font: 400 25px/40px "Ruda-Regular", sans-serif;
+  position: absolute;
+  left: 212px;
+  top: 2153px;
+  width: 1315px;
+  height: 378px;
+}
+.menu {
+  color: #ffffff;
+  text-align: center;
+  font: 400 60px/0px "Quattrocento-Regular", sans-serif;
+  position: absolute;
+  left: 609px;
+  top: 2021px;
+  width: 474px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.carousel {
+  color: #ffffff;
+  text-align: center;
+  font: 400 60px/0px "Quattrocento-Regular", sans-serif;
+  position: absolute;
+  left: 617px;
+  top: 3264px;
+  width: 474px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gallary {
+  color: #ffffff;
+  text-align: center;
+  font: 400 60px/0px "Quattrocento-Regular", sans-serif;
+  position: absolute;
+  left: 605px;
+  top: 4219px;
+  width: 474px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-7 {
+  background: #b62828;
+  width: 474px;
+  height: 9px;
+  position: absolute;
+  left: 609px;
+  top: 2087px;
+}
+.rectangle-15 {
+  background: #b62828;
+  width: 474px;
+  height: 9px;
+  position: absolute;
+  left: 627px;
+  top: 3341px;
+}
+.rectangle-16 {
+  background: #b62828;
+  width: 474px;
+  height: 9px;
+  position: absolute;
+  left: 615px;
+  top: 4296px;
+}
+.lorem-ipsum {
+  color: #f2c94c;
+  text-align: left;
+  font: 400 28px/0px "Ruda-Regular", sans-serif;
+  position: absolute;
+  left: 484px;
+  top: 2643px;
+  width: 348px;
+  height: 51px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-phasellus-ac-placerat-dui {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px/40px "Ruda-Regular", sans-serif;
+  position: absolute;
+  left: 483px;
+  top: 2694px;
+  width: 346px;
+  height: 120px;
+}
+.lorem-ipsum2 {
+  color: #f2c94c;
+  text-align: left;
+  font: 400 28px/0px "Ruda-Regular", sans-serif;
+  position: absolute;
+  left: 1194px;
+  top: 2643px;
+  width: 348px;
+  height: 51px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-phasellus-ac-placerat-dui2 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px/40px "Ruda-Regular", sans-serif;
+  position: absolute;
+  left: 1193px;
+  top: 2694px;
+  width: 346px;
+  height: 120px;
+}
+.bread-2 {
+  border-radius: 10px;
+  width: 274px;
+  height: 183.67px;
+  position: absolute;
+  left: 193px;
+  top: 2650px;
+}
+.bread {
+  border-radius: 10px;
+  width: 274px;
+  height: 200px;
+  position: absolute;
+  left: 883px;
+  top: 2650px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-phasellus-ac-placerat-dui3 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px/40px "Ruda-Regular", sans-serif;
+  position: absolute;
+  left: 488px;
+  top: 2949px;
+  width: 346px;
+  height: 120px;
+}
+.lorem-ipsum3 {
+  color: #f2c94c;
+  text-align: left;
+  font: 400 28px/0px "Ruda-Regular", sans-serif;
+  position: absolute;
+  left: 1199px;
+  top: 2898px;
+  width: 348px;
+  height: 51px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-phasellus-ac-placerat-dui4 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px/40px "Ruda-Regular", sans-serif;
+  position: absolute;
+  left: 1198px;
+  top: 2949px;
+  width: 346px;
+  height: 120px;
+}
+. {
+  border-radius: 10px;
+  width: 274px;
+  height: 200px;
+  position: absolute;
+  left: 198px;
+  top: 2898px;
+}
+.shake-1 {
+  border-radius: 10px;
+  width: 274px;
+  height: 200px;
+  position: absolute;
+  left: 887px;
+  top: 2898px;
+}
+.lorem-ipsum4 {
+  color: #f2c94c;
+  text-align: left;
+  font: 400 28px/0px "Ruda-Regular", sans-serif;
+  position: absolute;
+  left: 486px;
+  top: 2389px;
+  width: 348px;
+  height: 51px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.pizza-2 {
+  border-radius: 10px;
+  width: 273.08px;
+  height: 200px;
+  position: absolute;
+  left: 193px;
+  top: 2389px;
+}
+.pizza-22 {
+  border-radius: 10px;
+  width: 786px;
+  height: 613px;
+  position: absolute;
+  left: 225px;
+  top: 4362px;
+}
+.pizza-23 {
+  border-radius: 10px;
+  width: 1334px;
+  height: 638px;
+  position: absolute;
+  left: 198px;
+  top: 3407px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-phasellus-ac-placerat-dui5 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px/40px "Ruda-Regular", sans-serif;
+  position: absolute;
+  left: 485px;
+  top: 2440px;
+  width: 346px;
+  height: 120px;
+}
+.lorem-ipsum5 {
+  color: #f2c94c;
+  text-align: left;
+  font: 400 28px/0px "Ruda-Regular", sans-serif;
+  position: absolute;
+  left: 1196px;
+  top: 2389px;
+  width: 348px;
+  height: 51px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-phasellus-ac-placerat-dui6 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px/40px "Ruda-Regular", sans-serif;
+  position: absolute;
+  left: 1195px;
+  top: 2440px;
+  width: 346px;
+  height: 120px;
+}
+.pizza-5 {
+  border-radius: 10px;
+  width: 274px;
+  height: 200px;
+  position: absolute;
+  left: 883px;
+  top: 2389px;
+}
+.pizza-52 {
+  border-radius: 10px;
+  width: 274px;
+  height: 200px;
+  position: absolute;
+  left: 1024px;
+  top: 4362px;
+}
+.chevron-right-1 {
+  width: 114px;
+  height: 114px;
+  position: absolute;
+  left: 1578px;
+  top: 3657px;
+  overflow: visible;
+}
+.chevron-left-1 {
+  width: 114px;
+  height: 114px;
+  position: absolute;
+  left: 58px;
+  top: 3657px;
+  overflow: visible;
+}
+.ellipse-1 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 802px;
+  top: 4102px;
+}
+.ellipse-2 {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 829px;
+  top: 4102px;
+}
+.ellipse-3 {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 856px;
+  top: 4102px;
+}
+.ellipse-4 {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 883px;
+  top: 4102px;
+}
+.ellipse-5 {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 910px;
+  top: 4102px;
+}
+.bread-22 {
+  border-radius: 10px;
+  width: 274px;
+  height: 183.67px;
+  position: absolute;
+  left: 1024px;
+  top: 4787px;
+}
+.2 {
+  border-radius: 10px;
+  width: 274px;
+  height: 200px;
+  position: absolute;
+  left: 1024px;
+  top: 4569px;
+}
+.bread2 {
+  border-radius: 10px;
+  width: 274px;
+  height: 302px;
+  position: absolute;
+  left: 1311px;
+  top: 4362px;
+}
+.shake-12 {
+  border-radius: 10px;
+  width: 274px;
+  height: 302px;
+  position: absolute;
+  left: 1311px;
+  top: 4669px;
+}
+.rectangle-1 {
+  background: #000000;
+  width: 1728px;
+  height: 111px;
+  position: sticky;
+  left: 0px;
+  top: 0px;
+}
+.menu2 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px/0px "Ruda-Regular", sans-serif;
+  position: sticky;
+  left: 587px;
+  top: 41px;
+  width: 159px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.blogs {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px/0px "Ruda-Regular", sans-serif;
+  position: sticky;
+  left: 701px;
+  top: 43px;
+  width: 159px;
+  height: 27px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.testimony {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px/0px "Ruda-Regular", sans-serif;
+  position: sticky;
+  left: 831px;
+  top: 41px;
+  width: 159px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.find-us {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px/0px "Ruda-Regular", sans-serif;
+  position: sticky;
+  left: 975px;
+  top: 41px;
+  width: 159px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.our-team {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px/0px "Ruda-Regular", sans-serif;
+  position: sticky;
+  left: 1116px;
+  top: 41px;
+  width: 159px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.about-us2 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px/0px "Ruda-Regular", sans-serif;
+  position: sticky;
+  left: 452px;
+  top: 41px;
+  width: 159px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pizza-restaurant {
+  color: #ffffff;
+  text-align: center;
+  font: 700 29px/0px "Ruda-Bold", sans-serif;
+  position: sticky;
+  left: 20px;
+  top: 30px;
+  width: 333px;
+  height: 51px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-12 {
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1px;
+  width: 62.33px;
+  height: 43.12px;
+  position: sticky;
+  left: 1526.44px;
+  top: 80.1px;
+  box-shadow: 3px 6px 18px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(179.857deg) scale(1, 1);
+}
+.image-4 {
+  width: 47px;
+  height: 51px;
+  position: sticky;
+  left: 1625.02px;
+  top: 33px;
+}
+.image-5 {
+  width: 52px;
+  height: 44px;
+  position: sticky;
+  left: 1547.02px;
+  top: 37px;
+}
